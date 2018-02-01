@@ -1,7 +1,6 @@
+#include "stdafx.h"
 #include "stack.h"
-#include <iostream>
 
-using namespace std;
 
 void Stack::add(int i, int j, Stack *&myList)
 {
